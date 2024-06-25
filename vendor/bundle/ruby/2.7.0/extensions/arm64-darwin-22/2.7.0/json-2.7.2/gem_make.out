@@ -1,0 +1,13 @@
+current directory: /Users/harpreet/Downloads/projects/NeoCabs/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/harpreet/.rbenv/versions/2.7.5/bin/ruby -I /Users/harpreet/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20240409-37944-ylcpf9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/harpreet/Downloads/projects/NeoCabs/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/harpreet/Downloads/projects/NeoCabs/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/harpreet/Downloads/projects/NeoCabs/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install
